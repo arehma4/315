@@ -1,69 +1,64 @@
 {
-  "locations": [
+  "Item": [
     {
-      "Place": "Lahore",
-      "PDesc": "Pakistan's second largest city and the capital of the north-eastern Punjab province. It is widely considered the country's cultural capital. The heart of Lahore is the Walled or Inner City, a very densely populated area. Founded in legendary times, and a cultural centre for over a thousand years, Lahore has many attractions for the tourist.",
-      "PImage": "lahore.jpeg"
+      "Title": "Lahore",
+      "Desc": "Pakistan's second largest city and the capital of the north-eastern Punjab province. It is widely considered the country's cultural capital. The heart of Lahore is the Walled or Inner City, a very densely populated area. Founded in legendary times, and a cultural centre for over a thousand years, Lahore has many attractions for the tourist.",
+      "Image": "lahore.jpeg"
     },
     {
-      "Place": "Karachi",
-      "PDesc": "The largest city, with a growth rate at a global stage, and a sprawling huge metropolis grown into the commercial, transport and political hub. Known as the 'City of the Quaid' because Pakistan's founder, Muhammad Ali Jinnah, was born and raised here and 'City of Lights' for its round clock liveliness. It offers a lot from sunny, sandy beaches and scurf-infested old colonial buildings, to traditional bazaars and modern shopping malls",
-      "PImage": "karachi.jpeg"
+      "Title": "Karachi",
+      "Desc": "The largest city, with a growth rate at a global stage, and a sprawling huge metropolis grown into the commercial, transport and political hub. Known as the 'City of the Quaid' because Pakistan's founder, Muhammad Ali Jinnah, was born and raised here and 'City of Lights' for its round clock liveliness. It offers a lot from sunny, sandy beaches and scurf-infested old colonial buildings, to traditional bazaars and modern shopping malls",
+      "Image": "karachi.jpeg"
     },
     {
-      "Place": "Islamabad",
-      "PDesc": "A modern planned, well-maintanied and organised city, Islamabad is Pakistan's clean, calm, and green capital since 1963, with its name deriving from two words, Islam and abaad, meaning 'City of Islam'.It hosts a large number of diplomats, politicians and government employees, making it one of the nation's most cosmopolitan, developed and urbanized cities. People come from all over to enjoy its peaceful, noise-free atmosphere with a lot of greenery and nice surrounding scenery.",
-      "PImage": "islamabad.jpg"
-    }
-  ],
-  "mosques": [
-    {
-      "Mosque": "Badshahi Mosque",
-      "MDesc": "This royal, Mughal era mosque is considered one of Lahore's most iconic landmark. It is the second largest mosque in Pakistan, located near the citadel Lahore Fort.  Created by Emperor Aurangzeb, it is the biggest and most beautiful mosque of that era, has an exterior that is decorated with carved red sandstone with marble inlay.",
-      "MImage": "badshahi.jpeg"
+      "Title": "Islamabad",
+      "Desc": "A modern planned, well-maintanied and organised city, Islamabad is Pakistan's clean, calm, and green capital since 1963, with its name deriving from two words, Islam and abaad, meaning 'City of Islam'.It hosts a large number of diplomats, politicians and government employees, making it one of the nation's most cosmopolitan, developed and urbanized cities. People come from all over to enjoy its peaceful, noise-free atmosphere with a lot of greenery and nice surrounding scenery.",
+      "Image": "islamabad.jpg"
     },
     {
-      "Mosque": "Masjid-e-Tooba",
-      "MDesc": "Mosque with unique feature located in Karachi, Pakistan.  Also known as 'Gol(round) Masjid', it claims to be the largest single-dome mosque. It is entirely developed with white marble with a dome accompanied with low encircling wall no central pillars. A person talking on one side of the done can be listened at the other side. It is a beautiful and simple, yet classy mosque.",
-      "MImage": "tooba.jpg"
+      "Title": "Badshahi Mosque",
+      "Desc": "This royal, Mughal era mosque is considered one of Lahore's most iconic landmark. It is the second largest mosque in Pakistan, located near the citadel Lahore Fort.  Created by Emperor Aurangzeb, it is the biggest and most beautiful mosque of that era, has an exterior that is decorated with carved red sandstone with marble inlay.",
+      "Image": "badshahi.jpeg"
     },
     {
-      "Mosque": "Faisal Masjid",
-      "MDesc": "Located in Pakistan's capital city of Islamabad, it is the fifth-largest mosque in the world and the largest within South Asia. Inspired by Turkish architecture, its unique style consists of an eight-sided concrete shell shaped sloping roof, massive triangular prayer hall, and four minarets. The main tent-shaped hall’s interior is paved in white marble and embellished with mosaics and calligraphy.",
-      "MImage": "faisal.jpg"
-    }
-  ],
-  "foods": [
-    {
-      "Food": "Samosa",
-      "FDesc": "This fast food is like a fried pastry with a savory filling like vegetables, mixed spices, beef or other meats. It usually comes in a triangular shape. It is ate as a snack and is one of the popular variety of Pakistani street food.",
-      "FImage": "samosa.jpg"
+      "Title": "Masjid-e-Tooba",
+      "Desc": "Mosque with unique feature located in Karachi, Pakistan.  Also known as 'Gol(round) Masjid', it claims to be the largest single-dome mosque. It is entirely developed with white marble with a dome accompanied with low encircling wall no central pillars. A person talking on one side of the done can be listened at the other side. It is a beautiful and simple, yet classy mosque.",
+      "Image": "tooba.jpg"
     },
     {
-      "Food": "Biryani",
-      "FDesc": "This main dish is made of mixed rice, spices, meat, and additional regional varieties. Each variety is named after its place such as Sindhi biryani or Hyderabadi biryani. This famous mouth-watering, royal course cooked with different flavors is a must-try.",
-      "FImage": "biryani.jpg"
+      "Title": "Faisal Masjid",
+      "Desc": "Located in Pakistan's capital city of Islamabad, it is the fifth-largest mosque in the world and the largest within South Asia. Inspired by Turkish architecture, its unique style consists of an eight-sided concrete shell shaped sloping roof, massive triangular prayer hall, and four minarets. The main tent-shaped hall’s interior is paved in white marble and embellished with mosaics and calligraphy.",
+      "Image": "faisal.jpg"
     },
     {
-      "Food": "Kebab",
-      "FDesc": "These are originally made from beef but can be found in other  forms of meat like chicken or lamb as well as styles/shapes. This fast food is usually grilled on a skewer and can be eaten with a naan, hot bun, or accompanied with Pakistani meals.",
-      "FImage": "kebab.jpg"
-    }
-  ],
-  "attractions": [
-    {
-      "Attract": "SWAT",
-      "ADesc": "It is located in Khyber Pakhtunkhwa, Pakistan. Due to its scenic beauty, landscapes, and weather tourists have called it paradise on earth and 'mini Switzerland' or as Queen Elizabeth II said 'Switzerland of the east (Asia)'. It has scenic countrysides, lush forests, and high peak mountains. It's filled with freshwater lakes, rivers, springs, waterfalls, and valleys. There are also many seasonal activities.",
-      "AImage": "swat.jpg"
+      "Title": "Samosa",
+      "Desc": "This fast food is like a fried pastry with a savory filling like vegetables, mixed spices, beef or other meats. It usually comes in a triangular shape. It is ate as a snack and is one of the popular variety of Pakistani street food.",
+      "Image": "samosa.jpg"
     },
     {
-      "Attract": "Neelam Valley",
-      "ADesc": "It is located in Azad Kashmir, also known as paradise on Earth. It extends  more than 200 kilometers to Muzaffarabad, with snowy mountain peaks and beautiful scenery all around. The breathtaking views  and natural beauty is hard to forget.",
-      "AImage": "neelam.jpg"
+      "Title": "Biryani",
+      "Desc": "This main dish is made of mixed rice, spices, meat, and additional regional varieties. Each variety is named after its place such as Sindhi biryani or Hyderabadi biryani. This famous mouth-watering, royal course cooked with different flavors is a must-try.",
+      "Image": "biryani.jpg"
     },
     {
-      "Attract": "Minar-e-Pakistan",
-      "ADesc": "It is a national monument located in Lahore, Pakistan. Known as the Tower of Pakistan, built to commemorate the Lahore Resolution, that established a separate homeland for the Muslims of British India passed in the annual session of the All India Muslim League. This tower symbolized Pakistan's independence.",
-      "AImage": "minar.jpg"
+      "Title": "Kebab",
+      "Desc": "These are originally made from beef but can be found in other  forms of meat like chicken or lamb as well as styles/shapes. This fast food is usually grilled on a skewer and can be eaten with a naan, hot bun, or accompanied with Pakistani meals.",
+      "Image": "kebab.jpg"
+    },
+    {
+      "Title": "SWAT",
+      "Desc": "It is located in Khyber Pakhtunkhwa, Pakistan. Due to its scenic beauty, landscapes, and weather tourists have called it paradise on earth and 'mini Switzerland' or as Queen Elizabeth II said 'Switzerland of the east (Asia)'. It has scenic countrysides, lush forests, and high peak mountains. It's filled with freshwater lakes, rivers, springs, waterfalls, and valleys. There are also many seasonal activities.",
+      "Image": "swat.jpg"
+    },
+    {
+      "Title": "Neelam Valley",
+      "Desc": "It is located in Azad Kashmir, also known as paradise on Earth. It extends  more than 200 kilometers to Muzaffarabad, with snowy mountain peaks and beautiful scenery all around. The breathtaking views  and natural beauty is hard to forget.",
+      "Image": "neelam.jpg"
+    },
+    {
+      "Title": "Minar-e-Pakistan",
+      "Desc": "It is a national monument located in Lahore, Pakistan. Known as the Tower of Pakistan, built to commemorate the Lahore Resolution, that established a separate homeland for the Muslims of British India passed in the annual session of the All India Muslim League. This tower symbolized Pakistan's independence.",
+      "Image": "minar.jpg"
     }
   ]
+}
